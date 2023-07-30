@@ -1,1 +1,1 @@
-# Mini_javascript_projects
+Grade Generator
